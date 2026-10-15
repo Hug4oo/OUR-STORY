@@ -149,6 +149,3 @@ src/app/api/ai/insights      rota de IA
 - Avatar no perfil
 - Tipos gerados do banco (`supabase gen types`)
 
-## 📄 Licença
-
-Projeto pessoal. Defina a licença que preferir (ex.: MIT) antes de tornar o repositório público.
